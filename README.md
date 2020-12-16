@@ -8,10 +8,12 @@ The purpose of this script is to download all current releases of Apple's mobile
 
 -Run the script by running Terminal found in your Utilities folder inside the folder where all the Applications live.
 (If needed use chmod 777 commands to modify execution rights).
+
 -The script will ask for the latest release.
 
 A folder will be created on the desktop named "IPSW_Downloads" and the download will start.
 
 # Dependencies
-Any Linux/macOS based System 
+Any Linux/macOS based System
+
 cURL : Preform "sudo apt-get curl" first if needed
