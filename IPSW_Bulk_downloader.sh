@@ -8,7 +8,7 @@ mkdir IPSW_Downloads
 cd IPSW_Downloads
 echo -e ""
 echo -e ""
-#Ask server for availible IPSW files
+#Ask server for available IPSW files
 #
 #layout
 set -e
@@ -23,7 +23,7 @@ NC='\033[0m' # No Color
 echo -e "${YELLOW}      What iOS version has been released?${NC}"
 #
 read VersionNumber
-#Ask server for availible IPSW files
+#Ask server for available IPSW files
 echo -e ""
 echo -e "${RED}      Querying server for available iOS $VersionNumber downloads...${NC}"
 echo -e ""
