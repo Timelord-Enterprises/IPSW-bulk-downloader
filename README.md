@@ -12,6 +12,6 @@ The purpose of this script is to download all current releases of Apple's mobile
 
 A folder will be created on the desktop named "IPSW_Downloads" and the download will start.
 
-#Dependencies
+# Dependencies
 Any Linux/macOS based System 
 cURL : Preform "sudo apt-get curl" first if needed
